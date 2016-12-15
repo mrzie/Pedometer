@@ -15,6 +15,7 @@ pedometer = new Pedometer(selector, options)
 - `max` Number, default the lengh of range minus 1
 - `step` Number, default 40, height(px) of each item
 - `forget` Boolean, default false, remove all the event listener if true
+- `index` Number, the default selection index
 
 ##Methods
 ###init
